@@ -51,3 +51,17 @@ Output 3:
 <br /> 1 imported box of chocolates: 11.85
 <br /> Sales Taxes: 6.70
 <br /> Total: 74.68
+
+
+
+### HOW TO RUN:
+<br /> The mainApp is the entry point. All input already entered.
+<br /> Simply run the calculator from the MainApp to get the results above.
+
+### Further improvement 
+####TODO
+ Extend calculator to read text files and produce the output.
+<br /> Extend calculator to dynamically get user input and produce the result.
+
+
+

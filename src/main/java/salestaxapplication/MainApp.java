@@ -4,6 +4,9 @@ package salestaxapplication;
 import salestaxapplication.model.Item;
 import salestaxapplication.shopping.Cart;
 
+/**
+ * Entry point to the Application.
+ */
 public class MainApp {
 
     public static void main(String[] args) {

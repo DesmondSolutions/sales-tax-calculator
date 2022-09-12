@@ -8,5 +8,5 @@ public enum Category {
     BOOK,
     FOOD,
     MEDICAL_PRODUCTS,
-    OTHERS,
+    OTHERS
 }
