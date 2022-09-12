@@ -59,7 +59,7 @@ Output 3:
 <br /> Simply run the calculator from the MainApp to get the results above.
 
 ### Further improvement 
-####TODO
+### TODO
  Extend calculator to read text files and produce the output.
 <br /> Extend calculator to dynamically get user input and produce the result.
 
